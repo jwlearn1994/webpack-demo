@@ -1,6 +1,6 @@
 # Webpack Demos
 
-This is the webpack v5 demo for [史上最簡單的 Webpack 5 教學]()
+This is the webpack v5 demo for [史上最簡單的 Webpack 5 教學](https://johnnywang1994.github.io/book/articles/js/most-easy-webpack-basic-intro.html)
 
 Please find the learning order as following
 

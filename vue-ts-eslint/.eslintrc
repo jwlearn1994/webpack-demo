@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": [
+    "eslint:recommended",
+    "plugin:vue/vue3-strongly-recommended",
+    "@vue/eslint-config-typescript/recommended",
+    "@vue/eslint-config-prettier",
+    "plugin:prettier/recommended"
+  ]
+}
